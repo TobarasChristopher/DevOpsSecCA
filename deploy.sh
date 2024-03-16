@@ -17,7 +17,7 @@ node -v
 echo "npm version:"
 npm -v
 
-sudo npm install -g pm2
+npm install -g pm2
 
 pm2 stop DevOpsSecCA
 
